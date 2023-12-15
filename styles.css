@@ -48,6 +48,7 @@ html {
   width: 200px;
   position: absolute;
   top: 23px;
+  color:white;
 }
 
 @media (max-width: 768px) {
